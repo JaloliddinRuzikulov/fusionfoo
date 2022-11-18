@@ -1,2 +1,4 @@
 env
 templatess
+db.sqlite3
+.gitignore
